@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 I believe engineers don’t just adapt to the future — we create it.<br>
 As an AI/ML student, I’m constantly exploring, learning, and pushing myself to turn ideas into impact.<br><br>
